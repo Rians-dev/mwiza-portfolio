@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { Download, Calendar, Briefcase, Globe } from "lucide-react";
-import heroImage from "@/assets/hero-nurse.jpg";
+import heroImage from "@/assets/mwiza.png";
 
 const HeroSection = () => {
   return (
